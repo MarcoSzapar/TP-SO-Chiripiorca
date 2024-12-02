@@ -1,0 +1,42 @@
+{
+	"settings": {
+		"debug.onTaskErrors": "abort",
+		"files.associations": {
+			"*.h": "c",
+			"string": "c",
+			"array": "c",
+			"string_view": "c",
+			"initializer_list": "c",
+			"utility": "c",
+			"limits": "c",
+			"cstdlib": "c",
+			"random": "c",
+			"*.tcc": "c",
+			"bit": "c",
+			"compare": "c",
+			"cstddef": "c",
+			"memory": "c",
+			"new": "c",
+			"functional": "c",
+			"atomic": "c"
+		},
+		"C_Cpp.errorSquiggles": "disabled",
+	},
+	"folders": [
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "entradasalida"
+		},
+		{
+			"path": "utils"
+		}
+	]
+}
