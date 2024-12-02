@@ -2,7 +2,11 @@
 
 ##Integrantes
 
-@tomasdn @MarcoSzapar @lucasvazz16 @benitezcamila @FedeeHygonenq
+@[benitezcamila](https://github.com/benitezcamila)
+@[FedeeHygonenq](https://github.com/FedeeHygonenq)
+@[lucasvazz16](https://github.com/lucasvazz16)
+@[MarcoSzapar](https://github.com/MarcoSzapar)
+@[tomasdn](https://github.com/tomasdn)
 
 ##Consigna
 
